@@ -26,7 +26,7 @@ This GitHub repository contains the implementation of a comprehensive booking sy
 
 To explore the project, follow these steps:
 
-1. Clone the repository: `git clone [repository_url]`
+1. Clone the repository
 2. Review the ER diagram, SQL schema, and Python scripts.
 3. Explore the Tableau workbook for detailed data analysis.
 
